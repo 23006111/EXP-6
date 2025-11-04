@@ -3,7 +3,6 @@
 # AIM:
  To measure output voltage w.r.t the displacement of the core on the LVDT kit and find the graphical relationship between the two.
 
-
 # APPARATUS:
 LVDT kit, Multimeter
 
@@ -14,13 +13,9 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 <img width="1341" height="817" alt="exp6_beee" src="https://github.com/user-attachments/assets/d5cfee6c-a270-4b17-b3c7-aee19881f342" />
 <img width="1280" height="746" alt="image" src="https://github.com/user-attachments/assets/a9887486-3224-4c73-b600-9a34b6f7156b" />
 
-
-
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-04 at 9 25 48 PM](https://github.com/user-attachments/assets/9b70f2b1-8e87-4335-9e90-b6690a4dcebc)
 ![WhatsApp Image 2025-11-04 at 9 25 48 PM (2)](https://github.com/user-attachments/assets/092596c5-9311-43c6-8daf-8fc7d3ba0fbe)
-
-
 
 # PROCEDURE: 
 
@@ -33,7 +28,6 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 4. Value and note the corresponding values of voltages in the multimeter.
  
 5. Plot the graph between displacement and voltages on the graph paper.
-
 
 
 # PRECAUTION: 
